@@ -1,3 +1,5 @@
+#!/bin/python3
+
 n=int(input())
 choc=list(map(int,input().split()))
 d,m=input().split()
